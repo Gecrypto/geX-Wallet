@@ -1,0 +1,37 @@
+# OS X
+.DS_Store
+
+# vim
+*.swp
+
+# emacs
+*~
+
+# Node
+node_modules
+npm-debug.log
+npm-shrinkwrap.json
+
+# Bower
+bower_components
+
+# Config
+.env
+e2e-tests/ignore.js
+.settings
+.tern-project
+
+# Generated files
+Changelog.md
+.idea
+*.log
+.sass-cache
+build
+coverage
+coverage-lcov
+dist
+package-lock.json
+
+# External modules
+assets/js/bc-qr-reader.js
+assets/js/my-wallet
